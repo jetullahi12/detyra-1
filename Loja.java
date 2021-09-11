@@ -2,7 +2,8 @@
 public class Loja {
 
 	public Loja(Tabela board, Lojtari player, Pengesa barrier, Pamja display) {
-		display.update(board);
+		
+	
 	}
 
 	public void checkPlayer(Lojtari player, Tabela board, Pamja display) { 
